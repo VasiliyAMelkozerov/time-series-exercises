@@ -1,3 +1,4 @@
-stores_data.csv
-sales_data.csv
-items_data.csv
+stores.csv
+sales.csv
+items.csv
+__pycache__/
